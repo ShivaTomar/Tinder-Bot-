@@ -6,4 +6,4 @@ To run:
 create encrypted.py file with variables:
 
 username = 'your_username'
-password = 'ypur_password'
+password = 'your_password'
